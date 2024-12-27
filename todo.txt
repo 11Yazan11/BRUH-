@@ -1,0 +1,28 @@
+""""""""VERY IMPORTANT""""""""""
+
+-- MAKE LEVEL 4 HARDER, TO PROVOQUE PLEASURE...
+
+
+"""THE GAME"""
+
+- The goal of the game is to get to the green flag on every level, to get teleported to the next one.
+
+
+"""TODO"""
+
+- System of lives
+- Get the bg to have a linear gradiant in x so the bg gets darker as u move forward (for lvl 3)
+- Add music and sound effects
+- Make lvl4 scary and dark level and music liminal 2013 summer or somth
+- lvl5 --> Don't celebrate too soon and little foggy and real hard and long
+- Add aiming sniper and fancy abilities like moving doors to change the environment for the player
+- Add enemies
+- Add little animations and camera shake
+- Maybe make UI interface
+- Add walls that aren't fixed to the ground, player can push them
+- Add all kinds of walls like automatized moving and stuff
+- Chronometer for speedruns (enable/disable)
+- TELEPOTRER
+- Credits ('INSPIRED BY BACKROOMS')
+- DONT RESPAWN WAY TOO HIGH ON LEVEL 3 WHEN YOU RESTART THE GAME
+- -- FIX GRAVITY ACCELERATION WHICH STOPS TO WORK AFTER A CERTAIN FALLING SPEED BECAUSE OF AIR RESISTANCE (TOO HIGH AR)
