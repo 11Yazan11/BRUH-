@@ -225,7 +225,7 @@ class Game:
             self.actionUpdater()
 
 if __name__ == "__main__":
-    game = Game(920, 600, level=4)  # You can adjust these if your screen is too small of can afford more size. Just keep the ratio please.
+    game = Game(920, 600)  # You can adjust these if your screen is too small of can afford more size. Just keep the ratio please.
     game.run()
 
 pygame.quit()
